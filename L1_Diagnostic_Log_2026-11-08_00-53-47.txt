@@ -1,0 +1,27 @@
+=== L1 SYSTEM DIAGNOSTIC LOG ===
+Generated on: 2026-11-08_00-53-47
+
+--- SYSTEM INFO ---
+Operating System: Windows 11
+Architecture: AMD64
+C: Drive Space: 256 GB free of 500 GB total
+
+--- NETWORK DIAGNOSTICS ---
+Network Ping Results:
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=10ms TTL=119
+Reply from 8.8.8.8: bytes=32 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=32 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=32 time=11ms TTL=119
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 11ms, Average = 10ms
+
+--- AUTOMATED FIXES ---
+Failed to flush DNS cache. Windows Error:
+The requested operation requires elevation.
+
+
